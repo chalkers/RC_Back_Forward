@@ -2,6 +2,10 @@
 
 This code is from the blog post [Hacking a $9 Remote Controlled Car](http://forefront.io/a/hacking-9-buck-remote-controlled-car).
 
+##Dependancies
+
+* [BasicLibrary](https://github.com/chalkers/BasicLibrary)
+
 ##Licence
 
 Copyright 2013 Andrew Chalkley

@@ -1,6 +1,6 @@
 #Example code
 
-This code is from the blog post [Hacking a $9 Remote Controlled Car](http://forefront.io/a/hacking-9-buck-remote-controlled-car).
+This code is from the blog post [Hacking a $9 Remote Controlled Car](http://forefront.io/a/hacking-9-buck-remote-controlled-car-with-arduino).
 
 ##Dependancies
 
